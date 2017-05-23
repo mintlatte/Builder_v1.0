@@ -66,6 +66,8 @@ public class JsonFromUrl {
 			String fileType) throws IOException, SchemaException {
 		System.out.println("test");
 		System.out.println("test");
+		System.out.println("testjklk");
+		System.out.println("testjklk");
 		try {
 			DataConvertor dtConvertor = new DataConvertorImpl();
 			ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
