@@ -70,6 +70,7 @@ public class JsonFromUrl {
 		System.out.println("testjklk");
 		System.out.println("testjklk");
 		System.out.println("testjklk123123");
+
 		try {
 			DataConvertor dtConvertor = new DataConvertorImpl();
 			ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
