@@ -64,7 +64,7 @@ public class JsonFromUrl {
 
 	public SimpleFeatureCollection readJsonFromUrl(String collectionName, String layerName, int max, boolean flag,
 			String fileType) throws IOException, SchemaException {
-
+		System.out.println();
 		try {
 			DataConvertor dtConvertor = new DataConvertorImpl();
 			ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
