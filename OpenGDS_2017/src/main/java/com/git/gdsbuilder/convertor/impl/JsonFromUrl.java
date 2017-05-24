@@ -83,9 +83,6 @@ public class JsonFromUrl {
 		System.out.println("왜안되지");
 		System.out.println("왜안되지");
 		System.out.println("왜안되지");
-		System.out.println("kkkkkkkk");
-
-
 		try {
 			DataConvertor dtConvertor = new DataConvertorImpl();
 			ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
