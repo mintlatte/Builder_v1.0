@@ -82,6 +82,7 @@ public class JsonFromUrl {
 		System.out.println("ttttttttttttttt");
 		System.out.println("왜안되지");
 		System.out.println("왜안되지");
+		System.out.println("kkkkkkkk");
 
 
 		try {
